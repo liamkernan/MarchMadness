@@ -3,8 +3,6 @@ import java.util.*;
 /*
 spreadsheet: https://docs.google.com/spreadsheets/d/1Dl_S3lyLL665QXSnlcxmzdP9wEN9VE1X0p39iwXMjGA/edit?usp=sharing
 
-DO NOT PUT CSV FILES HERE
-
 2025 bracket not finalized: https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2025-march-madness-men-field-predictions
 
 Team object format for reference = new Team(String name, String seed, double orate, double drate, int round, double winLoss)
